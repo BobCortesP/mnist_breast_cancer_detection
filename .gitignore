@@ -1,0 +1,7 @@
+# Se ignorar los ipynb vistos en clases
+02_DemoMoE_Regresion.ipynb
+04_CNN_en_MNIST_10_5.ipynb
+05_Clasificacion_Imagenes_ViT.ipynb
+07_Demo_Proyecto_Manos.ipynb
+08_GAN_MNIST.ipynb
+events.*
