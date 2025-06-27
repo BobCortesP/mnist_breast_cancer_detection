@@ -5,3 +5,5 @@
 07_Demo_Proyecto_Manos.ipynb
 08_GAN_MNIST.ipynb
 events.*
+*.pth
+*.keras
