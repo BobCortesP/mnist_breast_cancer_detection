@@ -54,9 +54,8 @@ Se probaron los siguientes enfoques:
 
 - Modelos **CNN** diseñados desde cero
 - **Transfer Learning** con ResNet, DenseNet preentrenadas en imágenes médicas
-- **Vision Transformers (ViT)** para evaluar arquitecturas no convolucionales
 
 📊 **Métricas**: Accuracy y AUC-PR  
-📈 **Técnicas adicionales**: Bagging, Boosting, Stacking
+📈 **Técnicas adicionales**: Bagging, Stacking
 
 ---
